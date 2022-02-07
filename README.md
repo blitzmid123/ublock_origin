@@ -1,4 +1,4 @@
-# ublock_origin
+# uBlock_Origin
 *my personal config for uBlock Origin*
 
 
