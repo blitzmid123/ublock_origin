@@ -1,5 +1,5 @@
 # ublock_origin
-*My personal config for uBlock Origin*
+*my personal config for uBlock Origin*
 
 
 *+Ads  
