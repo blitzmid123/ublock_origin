@@ -2,7 +2,8 @@
 *my personal config for uBlock Origin*
 
 
-*+Ads  
+*+Ads
++Privacy
 +Tracking  
 +Malware  
 +Pop-ups  
