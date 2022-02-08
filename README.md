@@ -1,8 +1,9 @@
-# uBlock_Origin
+# Custom config
 *my personal config for uBlock Origin*
 
 
-*+Ads  
+**Extended Filterlist**  
+*+Ads    
 +Privacy  
 +Tracking  
 +Malware  
