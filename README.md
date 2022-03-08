@@ -1,7 +1,9 @@
 # Custom config
 *my personal config for uBlock Origin*
 
-[Link to Release](https://github.com/blitzmid123/ublock_origin/releases/tag/Release)
+[LINK TO RELEASE](https://github.com/blitzmid123/ublock_origin/releases/tag/Release)
+
+[TEST BEFORE & AFTER](https://d3ward.github.io/toolz/adblock.html)
 
 **Extended Filterlist**  
 *+Ads    
