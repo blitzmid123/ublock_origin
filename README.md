@@ -26,4 +26,5 @@ https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilte
 https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/anti-antiadb.txt  
 https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt  
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt  
-
+https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
+https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
