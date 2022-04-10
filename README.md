@@ -5,6 +5,8 @@ Link to release: [Click here](https://github.com/blitzmid123/ublock_origin/relea
 
 Test before & after: [Click here](https://d3ward.github.io/toolz/adblock.html)
 
+Similar Guide: [Here](https://rentry.co/FilterStalker)
+
 **Extended Filterlist**  
 *+Ads    
 +Privacy  
