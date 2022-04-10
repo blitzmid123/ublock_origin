@@ -1,9 +1,9 @@
 # Custom config
-*my personal config for uBlock Origin*
+*my personal config for uBlock Origin* 
 
-Link to release: [Click here](https://github.com/blitzmid123/ublock_origin/releases/tag/Release)
+Link to release: [Here](https://github.com/blitzmid123/ublock_origin/releases/tag/Release)
 
-Test before & after: [Click here](https://d3ward.github.io/toolz/adblock.html)
+Test before & after: [Here](https://d3ward.github.io/toolz/adblock.html)
 
 Similar Guide: [Here](https://rentry.co/FilterStalker)
 
