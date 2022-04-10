@@ -17,6 +17,15 @@ Similar Guide: [Here](https://rentry.co/FilterStalker)
 +Cosmetic Filters  
 +Annoyances*  
 
+**Changelog**
+04/10/2022
+*Added: Disable tooltips
+*Added: Disable pre-fetching
+*Added: Disable hyperlink auditing
+*Added: [NoCoin](https://github.com/hoshsadiq/adblock-nocoin-list) and [Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances)
+*Removed Peter Low's Ad and tracking server list
+*Removed: Enable cloud storage support
+
 
 *uBlock Origin:*  
 https://ublockorigin.com/  
