@@ -17,16 +17,6 @@ Similar Guide: [Here](https://rentry.co/FilterStalker)
 +Cosmetic Filters  
 +Annoyances*  
 
-**Changelog**  
-04/10/2022  
-*Added: Disable tooltips  
-*Added: Disable pre-fetching  
-*Added: Disable hyperlink auditing  
-*Added: [NoCoin](https://github.com/hoshsadiq/adblock-nocoin-list) and [Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances)  
-*Removed Peter Low's Ad and tracking server list  
-*Removed: Enable cloud storage support  
-
-
 *uBlock Origin:*  
 https://ublockorigin.com/  
 https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm  
@@ -39,3 +29,7 @@ https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadbl
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt  
 https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt
+https://raw.githubusercontent.com/llacb47/miscfilters/master/antipaywall.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt
