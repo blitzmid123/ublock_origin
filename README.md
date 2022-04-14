@@ -1,4 +1,4 @@
-# Custom config
+# Custom config (updated as of 4/14/2022)
 **my personal config for uBlock Origin**
 
 Link to release: [Here](https://github.com/blitzmid123/ublock_origin/releases/tag/Release)
