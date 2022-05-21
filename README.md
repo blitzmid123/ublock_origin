@@ -1,5 +1,7 @@
-# Custom config (updated as of 4/14/2022)
-**my personal config for uBlock Origin**
+# Custom config (Updated 5/21/2022)
+**Finally! An AdBlock that won't ruin your browsing experience!**
+
+**This will block most ads & pop-ups without breaking any pages.**
 
 Link to release: [Here](https://github.com/blitzmid123/ublock_origin/releases/tag/Release)
 
