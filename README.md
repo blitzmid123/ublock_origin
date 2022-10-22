@@ -25,7 +25,6 @@ https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcph
 https://github.com/gorhill/uBlock  
 
 *CustomList Sources:*  
-https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/antiadblock.txt  
 https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/anti-antiadb.txt  
 https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt  
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt  
