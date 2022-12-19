@@ -1,4 +1,4 @@
-# Custom config (Updated 10/22/2022)
+# Custom config (Updated 12/20/2022)
 **Finally! An AdBlock that won't ruin your browsing experience!**
 
 **This will block most ads & pop-ups without breaking any pages.**
