@@ -4,11 +4,16 @@
 
 **Emphasis with minimally affecting my browsing experience like breakage, cosmetic issues, load times, etc.**  
 
-Link to release: [Here](https://github.com/blitzmid123/ublock_origin/releases/tag/Release)
+[ublock_final.txt](https://github.com/blitzmid123/ublock_origin/releases/download/Release/ublock_final.txt)
 
-Test before & after: [Here](https://d3ward.github.io/toolz/adblock.html)
+Test before & after:  
+[d3ward](https://d3ward.github.io/toolz/adblock)  
+[adblock tester](https://adblock-tester.com)  
+[can you block it?](https://canyoublockit.com)  
 
-Similar Guide: [Here](https://rentry.co/FilterStalker)
+Similar Guides:  
+[FilterStalker](https://rentry.co/FilterStalker)  
+[yokoffing](https://github.com/yokoffing/filterlists)  
 
 **Extended Filterlist**  
 *+Ads    
