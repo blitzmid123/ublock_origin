@@ -4,6 +4,7 @@
 
 **Emphasis with minimally affecting my browsing experience like breakage, cosmetic issues, load times, etc.**  
 
+Download directly:  
 [ublock_final.txt](https://github.com/blitzmid123/ublock_origin/releases/download/Release/ublock_final.txt)
 
 Test before & after:  
