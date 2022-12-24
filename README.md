@@ -1,7 +1,8 @@
 # Custom config (Updated 12/24/2022)
-**Finally! An AdBlock that won't ruin your browsing experience!**
 
-**This will block most ads & pop-ups without breaking any pages.**
+**Config is based on my personal preference/usage**  
+
+**Emphasis with minimally affecting my browsing experience like breakage, cosmetic issues, load times, etc.**  
 
 Link to release: [Here](https://github.com/blitzmid123/ublock_origin/releases/tag/Release)
 
