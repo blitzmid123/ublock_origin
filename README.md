@@ -25,12 +25,10 @@ https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcph
 https://github.com/gorhill/uBlock  
 
 *CustomList Sources:*  
-https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/anti-antiadb.txt  
 https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt  
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt  
-https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
-https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt
-https://raw.githubusercontent.com/llacb47/miscfilters/master/antipaywall.txt
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt
+https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt  
+https://raw.githubusercontent.com/liamengland1/miscfilters/master/antipaywall.txt    
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt  
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt  
+https://abp.oisd.nl/ 
