@@ -28,7 +28,6 @@ Similar Guides:
 
 *uBlock Origin:*  
 https://ublockorigin.com/  
-https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm  
 https://github.com/gorhill/uBlock  
 
 *CustomList Sources:*  
