@@ -37,4 +37,4 @@ https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.tx
 https://raw.githubusercontent.com/liamengland1/miscfilters/master/antipaywall.txt    
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt  
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt  
-https://abp.oisd.nl/ 
+https://o0.pages.dev/Lite/adblock.txt  
