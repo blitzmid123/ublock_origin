@@ -1,16 +1,16 @@
 {
-  "timeStamp": 1671841430297,
+  "timeStamp": 1672270900373,
   "version": "1.46.0",
   "userSettings": {
     "colorBlindFriendly": true,
     "uiAccentCustom": true,
     "uiAccentCustom0": "#000000",
     "uiTheme": "dark",
-    "externalLists": "https://abp.oisd.nl/\nhttps://github.com/liamengland1/miscfilters/raw/master/antipaywall.txt\nhttps://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt\nhttps://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt\nhttps://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt\nhttps://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt\nhttps://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt",
+    "externalLists": "https://github.com/liamengland1/miscfilters/raw/master/antipaywall.txt\nhttps://o0.pages.dev/Lite/adblock.txt\nhttps://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt\nhttps://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt\nhttps://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt\nhttps://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt\nhttps://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt",
     "ignoreGenericCosmeticFilters": true,
     "importedLists": [
-      "https://abp.oisd.nl/",
       "https://github.com/liamengland1/miscfilters/raw/master/antipaywall.txt",
+      "https://o0.pages.dev/Lite/adblock.txt",
       "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt",
       "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt",
       "https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt",
@@ -44,13 +44,13 @@
     "fanboy-annoyance",
     "ublock-annoyances",
     "plowe-0",
+    "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt",
     "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt",
     "https://github.com/liamengland1/miscfilters/raw/master/antipaywall.txt",
     "https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt",
     "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt",
-    "https://abp.oisd.nl/",
     "https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt",
-    "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt"
+    "https://o0.pages.dev/Lite/adblock.txt"
   ],
   "hiddenSettings": {},
   "whitelist": [
