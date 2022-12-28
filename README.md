@@ -1,4 +1,4 @@
-# Custom config (Updated 12/24/2022)
+# Custom config (Updated 12/29/2022)
 
 **Config is based on my personal preference/usage**  
 
