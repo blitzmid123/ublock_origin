@@ -1,8 +1,6 @@
-# Custom config (Updated 12/29/2022)
-
 **Config is based on my personal preference/usage**  
 
-**Emphasis with minimally affecting browsing experience like breakage, cosmetic issues, load times, etc.**  
+**The main priority is to minimally hinder browsing experience like breakage, cosmetic issues, load times, etc.**  
 
 Download directly:  
 [ublock_final.txt](https://github.com/blitzmid123/ublock_origin/releases/download/Release/ublock_final.txt)
